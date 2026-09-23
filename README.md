@@ -1,6 +1,6 @@
 # 2048 in Java
 
-My first programming project — the 2048 sliding-tile game, built in my first-year Data Structures course.
+My programming project — the 2048 sliding-tile game, built in my first-year Data Structures course.
 
 The course provided the starter framework (the text/graphical drivers and the standard I/O & drawing libraries).
 **My work is the game logic in [`src/game/Board.java`](src/game/Board.java):**
